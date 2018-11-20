@@ -1,0 +1,25 @@
+MĚŘENÍ A VÝPOČET IMPEDANCE, INDUKTANCE A INDUKČNOSTI V OBVODU SE STŘÍDAVÝM PROUDEM
+
+POMŮCKY: Měřící přístroj UT61C, vodiče, cívka s jádry, plochá baterie - jednosměrný, centrální zdroj - střídavý (50Hz)
+
+ÚKOL: V obvodu se stejnosměrným proudem změřte odpor cívky bez jádra
+	a) bez jádra
+	b) s tyčovým jádrem
+	c) s U jádrem
+	d) s uzavřeným jádrem
+
+	=> Odpor cívky se se střídavým proudem nezmění
+
+V obvodu se střídavým proudem změříme impedanci (Z = U/I) // f = 50Hz
+	
+	Vypočtěte X_L
+	
+	Z = \sqrt(R^2 + (X_L)^2)
+	X_L = \sqrt(Z^2 - R^2)
+
+	
+	Indukčnost L
+
+	X_L = L \cdot\omega = L\cdot 2(pi)f
+	L = (X_C/2(pi)f)
+
